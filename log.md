@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: November 316, 2019 
+### Day 1: November 16, 2019 
 
 **Today's Progress**: Finished first project at freeCodeCamp.org + one JavaScript challenge.
 
