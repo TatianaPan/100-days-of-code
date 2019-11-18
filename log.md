@@ -20,4 +20,15 @@
 https://www.tatianapanferova.com
 https://github.com/TatianaPan/photographer-portfolio
 
+### Day 3: November 18, 2019
+
+**Today's Progress**: Did basic setup for a project of my fellow colleague from coding bootcamp. I will help him with frontend. So created react app and setup redux, etc, fetched first data from fake API to test.
++ starting with Ruby on Codecademy.
+
+**Thoughts:** It was good to re-read materials on redux - now it makes much more sense than during bootcamp.
+
+**Links to work:** 
+Project is developing on gitlab in private repo. 
+
+
 
