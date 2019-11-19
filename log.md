@@ -30,5 +30,14 @@ https://github.com/TatianaPan/photographer-portfolio
 **Links to work:** 
 Project is developing on gitlab in private repo. 
 
+### Day 4: November 19, 2019 
+
+**Today's Progress**: Created login form, sign up form and validation form. Tested with backend - it works. Try to style a bit, but have an issue wit Material UI - don't know how to wrap component with WithStyles, since it is already wrapped wuth redux's 'connect'.
+
+**Thoughts:** .
+
+**Links to work:** 
+https://github.com/TatianaPan/storybetter - private repo
+
 
 
