@@ -39,5 +39,14 @@ Project is developing on gitlab in private repo.
 **Links to work:** 
 https://github.com/TatianaPan/storybetter - private repo
 
+### Day 5: November 20, 2019 
+
+**Today's Progress**: Finished validation form, managed to retrieve some stories from backend. Design: managed to connect withStyles + added styling for login page.
+
+**Thoughts:** would like to have more time today for coding.
+
+**Links to work:** 
+https://github.com/TatianaPan/storybetter - private repo
+
 
 
