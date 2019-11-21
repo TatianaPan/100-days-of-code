@@ -48,5 +48,14 @@ https://github.com/TatianaPan/storybetter - private repo
 **Links to work:** 
 https://github.com/TatianaPan/storybetter - private repo
 
+### Day 6: November 21, 2019 
+
+**Today's Progress**: Did styling for login, validation and sign up pages, started with styling for videos feed. Got stuck with tokens: when page is reloaded, need to log in again ((
+
+**Thoughts:** need to read about tokens in localStorage and Redux store.
+
+**Links to work:** 
+https://github.com/TatianaPan/storybetter - private repo
+
 
 
