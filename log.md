@@ -57,5 +57,14 @@ https://github.com/TatianaPan/storybetter - private repo
 **Links to work:** 
 https://github.com/TatianaPan/storybetter - private repo
 
+### Day 7: November 22, 2019 
+
+**Today's Progress**: Fixed problem with tokens, implemented basic styling for header, feed of stories, story card and story page.
+
+**Thoughts:** spent much time on Material UI and fixing issue with redirecting after account validation.
+
+**Links to work:** 
+https://github.com/TatianaPan/storybetter - private repo
+
 
 
