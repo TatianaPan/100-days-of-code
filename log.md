@@ -66,5 +66,12 @@ https://github.com/TatianaPan/storybetter - private repo
 **Links to work:** 
 https://github.com/TatianaPan/storybetter - private repo
 
+### Day 8: November 23, 2019.
+
+**Today's Progress**: Spent couple of hours coding. decided to have a bit rest and to switch to easier project, one from FCC. Created a simple survey form, HTML + CSS only.
+
+**Links to work**: 
+https://codepen.io/tatianapan/full/vYYMoXp
+
 
 
