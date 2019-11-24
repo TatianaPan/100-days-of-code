@@ -73,5 +73,12 @@ https://github.com/TatianaPan/storybetter - private repo
 **Links to work**: 
 https://codepen.io/tatianapan/full/vYYMoXp
 
+### Day 9: November 24, 2019.
+
+**Today's Progress**: Tried to make yesterdays surbey form prettier, but sometimes CSS is such a pain!
+
+**Links to work**: 
+[Survey Form](https://codepen.io/tatianapan/full/vYYMoXp)
+
 
 
