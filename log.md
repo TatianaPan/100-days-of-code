@@ -87,5 +87,13 @@ https://codepen.io/tatianapan/full/vYYMoXp
 **Links to work**: 
 https://github.com/TatianaPan/todo_with_react_hooks
 
+### Day 11: November 26, 2019.
+
+**Today's Progress**: Back tp StoryBetter project. Created one more header, finished story page, made a form for creating new story.
+
+**Thoughts:** I stay engaged, but getting tired.
+
+**Links to work**: 
+https://github.com/TatianaPan/storybetter - private repo
 
 
