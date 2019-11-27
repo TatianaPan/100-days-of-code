@@ -96,4 +96,13 @@ https://github.com/TatianaPan/todo_with_react_hooks
 **Links to work**: 
 https://github.com/TatianaPan/storybetter - private repo
 
+### Day 12: November 26, 2019.
+
+**Today's Progress**: Continued with React Hooks. Did 3 exercises from this workshop: https://github.com/kentcdodds/learn-react-hooks
+
+**Thoughts:** 
+
+**Links to work**: 
+https://github.com/TatianaPan/learn-react-hooks
+
 
