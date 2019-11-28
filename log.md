@@ -105,4 +105,13 @@ https://github.com/TatianaPan/storybetter - private repo
 **Links to work**: 
 https://github.com/TatianaPan/learn-react-hooks
 
+### Day 13: November 28, 2019.
+
+**Today's Progress**: Finished React Hooks workshop + did one lesson on Ruby course.
+
+**Thoughts:** 
+
+**Links to work**: 
+https://github.com/TatianaPan/learn-react-hooks
+
 
