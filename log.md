@@ -114,4 +114,13 @@ https://github.com/TatianaPan/learn-react-hooks
 **Links to work**: 
 https://github.com/TatianaPan/learn-react-hooks
 
+### Day 14: November 29, 2019.
+
+**Today's Progress**: Added delete story feature + delete modal to StoryBetter project. Also have written user story for my side project.
+
+**Thoughts:** 2 weeks of coding completed!
+
+**Links to work**: 
+https://github.com/TatianaPan/storybetter
+
 
