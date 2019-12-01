@@ -123,4 +123,13 @@ https://github.com/TatianaPan/learn-react-hooks
 **Links to work**: 
 https://github.com/TatianaPan/storybetter
 
+### Day 15-16: November 30 - December 1, 2019.
+
+**Today's Progress**: Started fCC project - product landing page. Made basic skeleton, but didn't manage to embed video.
+
+**Thoughts:** 
+
+**Links to work**: 
+https://codepen.io/tatianapan/pen/yLyBpjR?editors=1010
+
 
