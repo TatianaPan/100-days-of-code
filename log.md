@@ -132,4 +132,13 @@ https://github.com/TatianaPan/storybetter
 **Links to work**: 
 https://codepen.io/tatianapan/pen/yLyBpjR?editors=1010
 
+### Day 17: December 2, 2019.
+
+**Today's Progress**: Started an internship, doing tutorial on Ruby on Rails.
+
+**Thoughts:** 
+
+**Links to work**: 
+
+
 
