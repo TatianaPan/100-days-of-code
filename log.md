@@ -140,5 +140,11 @@ https://codepen.io/tatianapan/pen/yLyBpjR?editors=1010
 
 **Links to work**: 
 
+### Day 18: December 3, 2019.
 
+**Today's Progress**: Finished basic tutorial on RUby on Rails, did first commit: fixed tests in existing application.
+
+**Thoughts:** Feeling like starting to see shapes of buildings in a fog.
+
+**Links to work**:
 
