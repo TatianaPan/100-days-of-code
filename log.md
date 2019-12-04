@@ -152,7 +152,7 @@ https://codepen.io/tatianapan/pen/yLyBpjR?editors=1010
 
 **Today's Progress**: Started to implement one feature to existing application + again reading a lot of documentation.
 
-**Thoughts:** 
+**Thoughts:** Very tired.
 
 **Links to work**:
 
