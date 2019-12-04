@@ -148,3 +148,12 @@ https://codepen.io/tatianapan/pen/yLyBpjR?editors=1010
 
 **Links to work**:
 
+### Day 19: December 4, 2019.
+
+**Today's Progress**: Started to implement one feature to existing application + again reading a lot of documentation.
+
+**Thoughts:** 
+
+**Links to work**:
+
+
