@@ -156,4 +156,20 @@ https://codepen.io/tatianapan/pen/yLyBpjR?editors=1010
 
 **Links to work**:
 
+### Day 20: December 5, 2019
+
+**Today's Progress**: Today haven't done much - there was 'internal day' in the company, with a lot of meetings. but managed to finish new feature. but still need to write tests. ok, it's more about copy-pasting and trying to understand existing code.
+
+**Links to work**: Private company's repo
+
+### Day 21: December 6, 2019
+
+**Today's Progress**: Today I have finished one feature in Ruby on Rails app(and already have been given an idea what to improve😆).
+
+**Links to work**: Private company's repo
+
+### Day 22: December 7, 2019
+
+**Today's progress**: Did have of Ruby course on Codecademy.
+
 
