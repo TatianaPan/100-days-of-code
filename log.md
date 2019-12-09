@@ -168,8 +168,12 @@ https://codepen.io/tatianapan/pen/yLyBpjR?editors=1010
 
 **Links to work**: Private company's repo
 
-### Day 22: December 7, 2019
+### Day 22-23: December 7-8, 2019
 
-**Today's progress**: Did have of Ruby course on Codecademy.
+**Today's progress**: Did half of Ruby course on Codecademy.
 
+### Day 24: December 9, 2019
 
+**Today's Progress**: Improved 'Archive app" feature - user can now restore archived app and server
+
+**Links to work**: Private company's repo
