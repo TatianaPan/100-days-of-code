@@ -177,3 +177,9 @@ https://codepen.io/tatianapan/pen/yLyBpjR?editors=1010
 **Today's Progress**: Improved 'Archive app" feature - user can now restore archived app and server
 
 **Links to work**: Private company's repo
+
+### Day 25: December 10, 2019
+
+**Today's Progress**: deployed my feature to staging environment + got first code review - now need to make some adjustments. Started with new feature, but spent a lot of time trying to understand existing code.  
+
+**Links to work**: Private company's repo
